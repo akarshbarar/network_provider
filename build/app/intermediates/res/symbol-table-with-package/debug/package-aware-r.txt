@@ -1,0 +1,4 @@
+com.example.network_provider
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
